@@ -3,13 +3,13 @@
 A React clone of the Notion application where there is the functionality to make texts bold, italic, underline, in code format.
 I also have the functionality to add a "/" and bring the options for large, medium and small titles.
 
-## 💻 PRINT ONE
+## 💻 IMAGE ONE
 ![preview](./src/assets/screens/1.png)
 
-## 💻 PRINT TWO
+## 💻 IMAGE TWO
 ![preview](./src/assets/screens/2.png)
 
-## 💻 PRINT THREE
+## 💻 IMAGE THREE
 ![preview](./src/assets/screens/3.png)
 
 ## 🛠️ Technologies
