@@ -28,5 +28,5 @@ I also have the functionality to add a "/" and bring the options for large, medi
 ## ⚙️ How To Install?
 - Clone the repository
 - Run the command: ```npm install```
-- Run the command: ```npm run build```
+- Run the command: ```npm run dev```
 - Enjoy!!!
