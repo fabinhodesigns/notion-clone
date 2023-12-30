@@ -23,7 +23,7 @@ I also have the functionality to add a "/" and bring the options for large, medi
 
 ## 📞 Contact
 - freitasfabiano08@gmail.com
-- @fabinhofreitastw
+- @ffabiiin
 
 ## ⚙️ How To Install?
 - Clone the repository
